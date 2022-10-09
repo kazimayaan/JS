@@ -17,4 +17,5 @@ You can create issue for any feature or discussion regarding addition of project
 ## Things we love to merge in our repo
 
 - More JavaScript Based Web app
-- 
+- Fun Projects on which you have worked on.
+- Unique Ideas are entertained more.
